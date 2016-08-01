@@ -1,0 +1,8 @@
+Package: com.simalary.foregroundtheme
+Name: Foreground
+Version: 0.1-alpha
+Architecture: iphoneos-arm
+Description: Add foreground to enhance the look of your device's homescreen!
+Maintainer: Your Name <you@example.com>
+Author: Chris Harper (Simalary) <harper.chris033@live.com>
+Section: Themes // Springbored
