@@ -4,13 +4,28 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
 Size: 77440
-MD5sum: 62ffbd83989d6cdf25580621dda2c1f7
-SHA1: 4d4faf49e5d0c0ec57b760526e04d8789c0ec92a
-SHA256: 653f81c26314de399e81ba869d6e4d3cbe6b63a1fd698f12ac0c38f78e6c880b
+MD5sum: f573ef29149476a4783d9e5f1fde34c5
+SHA1: 8a7b1b54d51d827c17ad4a2bfcda9c447ba6a750
+SHA256: f45c05e920329a699d9fde95e397dd7368fb06b61c56989a03ab15a976adcbab
 Section: Fixes_(Cydia)
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Cydia Multitasking Icon Fix
+
+Package: com.simalary.SimalaryRepoIcons
+Version: 0.0.103
+Architecture: iphoneos-arm
+Essential: yes
+Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
+Filename: ./debs/com.simalary.simalaryrepoicons_0.0.103_iphoneos-arm.deb
+Size: 99646
+MD5sum: 9d862cfff8b577eefc435254cf7e1d3b
+SHA1: 42113b1b940432e6e620fc920aad3de318d96e05
+SHA256: ba9e849a3e3ea47c2f1cefe6e60bfb81469720559502e91bf21970fdc9ee894e
+Section: System_(Repo)
+Description: Locally cached icons for the Simalary Repo.
+Author: Chris Harper (Simalary) <harper.chris033@live.com>
+Name: Simalary Repo Icons
 
 Package: com.simalary.foregroundtheme
 Version: 0.1-alpha
@@ -19,9 +34,9 @@ Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
 Size: 632038
-MD5sum: 9bd2005f80c56a926450d430ee83ed25
-SHA1: e3c2893ee2783f8d8964bfc58d0d45253861c13a
-SHA256: 206a9a31c5f8d611becba13b06c917323382cff0720a6c301b3b07f19e589646
+MD5sum: cd0995dce32669273b0122125217e88d
+SHA1: 84b1b2d1d3be888a3c8a400bc0246f40c3a58579
+SHA256: c911e49aa9aea1e4dc38de66555f7e253a0688a48444909c05ffedccab39a233
 Section: Themes_(SpringBoard)
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
