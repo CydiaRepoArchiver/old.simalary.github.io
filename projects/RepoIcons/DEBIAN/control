@@ -1,6 +1,6 @@
 Package: com.simalary.SimalaryRepoIcons
 Name: Simalary Repo Icons
-Version: 0.0.102
+Version: 0.0.101
 Architecture: iphoneos-arm
 Description: Locally cached icons for the Simalary Repo.
 Essential: yes
