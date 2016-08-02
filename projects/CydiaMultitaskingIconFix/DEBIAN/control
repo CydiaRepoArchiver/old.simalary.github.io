@@ -5,4 +5,4 @@ Architecture: iphoneos-arm
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
-Section: Tweaks // Fixes (Cydia)
+Section: Fixes_(Cydia)
