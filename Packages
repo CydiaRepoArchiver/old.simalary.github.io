@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
 Size: 77440
-MD5sum: 9975e771dcce7610c4cccbf90643fcba
-SHA1: 9fc4fa81ce3b1f765d31dfee23bc38f26dc33fd0
-SHA256: 4746c1b105cadec22b1466a30e9569abe45c85b16480fb846d2c197e3053400e
+MD5sum: 2d9a1bf93805e30699e196ad2a738de4
+SHA1: d6e049bb535db25d1f98314f632fb1c3535563a8
+SHA256: 12894a00dedb467a28897a700ddfe755708edb947b77de80fc68cd315238d24b
 Section: Fixes_(Cydia)
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -19,9 +19,9 @@ Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.simalaryrepoicons_0.0.103_iphoneos-arm.deb
 Size: 99644
-MD5sum: 62d3f8043b5b29b866061a8e303cca23
-SHA1: 7de49da52defa3cb3601e72c57a98a9a78fc1edb
-SHA256: 8569442a91850ddc2e3d4d0f70cb7a657f66afc99629169dd98a0124acc747c4
+MD5sum: 47f64af406732139ee4e31e70757d89f
+SHA1: 52bedc92567acdc41297bf8fec3e1fc81b40610b
+SHA256: 35c79165386e9d9ad13d0fee8c8c49781839192b548d3ea0c96eb251b3894bd6
 Section: System_(Repo)
 Description: Locally cached icons for the Simalary Repo.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -33,9 +33,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
 Size: 632032
-MD5sum: 15fac447d1c248df2530191faac8fad3
-SHA1: 6a467d9abe336ef9e646aadb527a599993a3f95b
-SHA256: 02290e649ea179d87ceb33fa1a8a2bbc06573ca7363a6f0a93fb6567ebc7412c
+MD5sum: 18f901649d710788d36d3c0e03e1e484
+SHA1: 94ef453e810b64d152380258ec7452ec453aeec8
+SHA256: c7d6a63363c654d2855e9bb2e97cf229e8a673a5a4e32685a58c0f308b1814f2
 Section: Themes_(SpringBoard)
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
