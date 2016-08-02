@@ -1,12 +1,12 @@
 Package: com.simalary.foregroundtheme
 Version: 0.1-alpha
 Architecture: iphoneos-arm
-Maintainer: Your Name <you@example.com>
+Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
-Size: 632042
-MD5sum: 042cd4c0cef56fd96cf9b9dbe1dd79f8
-SHA1: eb4d52512cd85ff4a70b3941ee0b05cc6d177499
-SHA256: 2c93b65ac5bf5218483499f0e72572ea84a2a291cbd5cfe1de90a64852fadbfa
+Size: 632030
+MD5sum: 315faf9b5bdb3aed525f7e9ff0aefba4
+SHA1: 18466d2ee5ab4dee2d312e0e1c9a88175b0717e1
+SHA256: 4af507679ac91f2a7cc88754c32c67ab179941c89ae2b8105b8fa95933ef487a
 Section: Themes // Springboard
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
