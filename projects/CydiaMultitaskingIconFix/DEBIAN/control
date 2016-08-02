@@ -1,8 +1,8 @@
 Package: com.simalary.CydiaMultitaskingIconFix
 Name: Cydia Multitasking Icon Fix
-Version: 0.0.102
+Version: 0.0.103
 Architecture: iphoneos-arm
-Description: Fixes the icon for Cydia when in the app switcher on iOS 7+
+Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Section: Tweaks // Fixes (Cydia)
