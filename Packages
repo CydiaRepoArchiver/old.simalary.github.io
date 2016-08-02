@@ -3,10 +3,10 @@ Version: 0.0.101
 Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.101_iphoneos-arm.deb
-Size: 77404
-MD5sum: da415a0e22ea749fdbd845a4e12c2c12
-SHA1: b3ea216143787e28bc6bf8b3c7cfbb52a2b5902f
-SHA256: 7f7b1e02d7cff81e0422ac6fc5c5786c4ff47bbd082ba7b79fbb83ccfca7241c
+Size: 77418
+MD5sum: 65195de6acd0da4840650c613d5d8e36
+SHA1: 04d31d8d533ff3855f2a202858a31cc28bf3f4b7
+SHA256: fbe95d2fcb95c7bc30b6a370bb97e53572a34ff6b6f847e0f03726ee80e683bc
 Section: Tweaks // Fixes (Cydia)
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
 Size: 632030
-MD5sum: 69e2dd22ce1eb3bc639029e35c4cc7b7
-SHA1: a3c94a4ef8069bfb7e397bccdaf28de6711c6dd3
-SHA256: 3e9488adca138ad92c87340970472d13197a4c6247f9dc8f4e4820e2750ca870
+MD5sum: 384e9623c831c38e8e0c85b111a01668
+SHA1: c2404e8463e8980daff7f5c0ea68a0c9e48f2419
+SHA256: 96bb908318aa7a873f35db4b30d74418cddc3c96683d057937720ae71e770d96
 Section: Themes // Springboard
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
