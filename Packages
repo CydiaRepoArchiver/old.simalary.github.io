@@ -3,26 +3,26 @@ Version: 0.0.103
 Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
-Size: 77440
-MD5sum: 729a6cda6cac6aac950388bbc9228a95
-SHA1: c7d4145cf316118407e976fe8003e38e35c92267
-SHA256: 6c66d7b73caef736d1c3e12eae0f67adbd799443eaa0155cde83d9508165777f
-Section: Fixes_(Cydia)
+Size: 77436
+MD5sum: 6dd929826f433c2fc784cb09f4e48128
+SHA1: a56cf1e2fc68854be6ad8b6aafe3dab8880b5e95
+SHA256: 099119c016fb9f53116d43ae0c2a57bf9a364189438c3fecbcb060e942260bf3
+Section: Fixes - Cydia
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Cydia Multitasking Icon Fix
 
 Package: com.simalary.SimalaryRepoIcons
-Version: 0.0.101
+Version: 0.0.102
 Architecture: iphoneos-arm
 Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
-Filename: ./debs/com.simalary.simalaryrepoicons_0.0.101_iphoneos-arm.deb
-Size: 36432
-MD5sum: ef5f03bae184c690a41ce9fe517f95b7
-SHA1: f6f7bca44138f42478a59f0b0714b7415ec0f4a7
-SHA256: 51385f6633e6715e253c8dc07f10d1d4e3d172def0224ec96f261417965190ad
-Section: System_(Repo)
+Filename: ./debs/com.simalary.simalaryrepoicons_0.0.102_iphoneos-arm.deb
+Size: 99596
+MD5sum: 3e97c6d313602e4ef83375810693a8c7
+SHA1: d490257c55ccc54b9dc7d4baf6f6d4431dbef807
+SHA256: dcd5147137f0df9e156a50705de132ccad56cae2e21b1f4b7f3b68da9c9328c7
+Section: System - Repo
 Description: Locally cached icons for the Simalary Repo.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Simalary Repo Icons
@@ -32,11 +32,11 @@ Version: 0.1-alpha
 Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
-Size: 632032
-MD5sum: c80abdcd4c7e410895c19f6c24dc5d6f
-SHA1: 80fe2c09b5b12798ebfb7dd2f3f63072d623185f
-SHA256: 5e337de0ba0ee4cf122cf502908267f384c02389a191a7d2a540da217c2d7e85
-Section: Themes_(SpringBoard)
+Size: 632028
+MD5sum: efa5edebd6780a90e27649ae6002be5d
+SHA1: f3967264f09cb0af8912d4b60aa7a13918d3db34
+SHA256: cd4d62b6976a1a28b2189933a1b297bfd02af2aba345f427321c265e9c81ac3f
+Section: Themes - SpringBoard
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Foreground
