@@ -1,0 +1,8 @@
+Package: com.simalary.ElCapitanBeachBallLoadingIndicator
+Name: El Capitan Beach Ball Loading Indicator
+Version: 0.1-b
+Architecture: iphoneos-arm
+Description: Change the old spinning dial into a colorful raindbow icon that looks like a beach ball. Apply with WinterBoard or Anemone. \nNOTE: There are a few issues with the status bar not showing up correctly, or it skips a few frames.
+Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
+Author: Chris Harper (Simalary) <harper.chris033@live.com>
+Section: Themes_-_Other
