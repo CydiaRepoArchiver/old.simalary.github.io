@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
 Size: 77440
-MD5sum: d219701edd1a5741d7530fd1334a04b5
-SHA1: 6d0b5371f3585b7f5a89aa7fbf789854ec6ad556
-SHA256: 53852a6c57b0e0df660775fa1fc81092f0c4dd4e8121f68c4447fbd3c1549587
+MD5sum: 4fb075e251aa4692c12454c9461c3f12
+SHA1: 492cb43f364579e8174c402e4bedbe53c4fa79b0
+SHA256: dd79efcd3561dd8355ebd8408823df62e2852c4198bed7745071cf2376417f00
 Section: Fixes_-_Cydia
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.elcapitanbeachballloadingindicator_0.1-b_iphoneos-arm.deb
 Size: 132158
-MD5sum: 5323327c67475d1e808da7cae66e6b8b
-SHA1: a6be901cebcb3c16305df41e994e64c88280b273
-SHA256: f58cd53497d8314f84c2216084f45b11f0579d0937c5d3c56ebc2bc17c311d0f
+MD5sum: 091e49e759e16b5df3ec50a23dbcf3d0
+SHA1: 1b129bb5dddafa943a5fd7bb141af976fc79e4cd
+SHA256: 878c7bf1d98ed84910cacf8c4ae501e9711c43d09616ba6a0dfb89db1f440949
 Section: Themes_-_Other
 Description: Change the old spinning dial into a colorful raindbow icon that looks like a beach ball. Apply with WinterBoard or Anemone.
  There are a few issues with the status bar not showing up correctly, or it skips a few frames.
@@ -34,23 +34,23 @@ Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.simalaryrepoicons_0.0.103_iphoneos-arm.deb
 Size: 149128
-MD5sum: d0b07bfac0e02c6e1af721d993a46c89
-SHA1: 091bdf0c785950077820de954dfd53ab4db420de
-SHA256: 409174c384728e1443a970e650ba43b7b2f9bd2133ff281afe03a94486f0a566
+MD5sum: 6f7c6b245b5b2911a1fd620d31887f99
+SHA1: 943b2198d9c9c9f3968d1468b82eccac46fb5f94
+SHA256: 4075b4cd066f9cda6af0aaeaf27cad68420da435d9f509e1500461afb58b1abf
 Section: System_-_Repo
 Description: Locally cached icons for the Simalary Repo.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Simalary Repo Icons
 
 Package: com.simalary.spectrumAlpha
-Version: 0.0.1-BLAH
+Version: 0.0.2-BLAH
 Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
-Filename: ./debs/com.simalary.spectrumalpha_0.0.1-BLAH_iphoneos-arm.deb
-Size: 3392444
-MD5sum: dc76b65dadc8a8634bca86b4d52e5a16
-SHA1: d0978ff1542ebe42c95cc53267c7379b5c825be5
-SHA256: 47bfdbb5383d8d2ab82be841148e8dc6309ccab0d7ad8dbb363227c5dc97a4d6
+Filename: ./debs/com.simalary.spectrumalpha_0.0.2-BLAH_iphoneos-arm.deb
+Size: 3392446
+MD5sum: aed759970b32ee0ccf6495c8fa6f9d82
+SHA1: 34b7b022d500f6cbdd229b32f046485ed6858a56
+SHA256: eb3426f8a9ff2f0dc84375f8b813c49a4791277d0950d2a8538943592b56a041
 Section: Themes_-_SpringBoard
 Description: Introduce the essence of blurred icons. They are a fresh new look!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
