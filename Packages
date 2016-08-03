@@ -4,27 +4,13 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
 Size: 77440
-MD5sum: 54aaa3e2bd640e8160655f25d8b3795f
-SHA1: 1b6bf91b682b24d36e474f048e19979ac6e4914c
-SHA256: fa202cb5e144c9731d7d13904e99ef157353edcccc232836adb5f88c1c752db2
+MD5sum: 5b8a4627d3b429ebe0e8d5ce99cb96fd
+SHA1: b5e04e19632a74ad66d6f819c7cacc88f73b43bb
+SHA256: 326ca173101c9b4378bb69be56da014bb7fe90ce38809e9a6f72453764b30473
 Section: Fixes_-_Cydia
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Cydia Multitasking Icon Fix
-
-Package: com.simalary.ElCapitanBeachBallLoadingIndicator
-Version: 0.1-b
-Architecture: iphoneos-arm
-Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
-Filename: ./debs/com.simalary.elcapitanbeachballloadingindicator_0.1-b_iphoneos-arm.deb
-Size: 132164
-MD5sum: abf0d93a8bc8a641a40fd6484163679c
-SHA1: 2338ba87b84e0c1610f03d247b59e2613ad2629b
-SHA256: daab2189bcac3da6a2e310ba8c9f64e114da15592e1d6016c62f6b0d6c0cefb7
-Section: Themes_-_Other
-Description: Change the old spinning dial into a colorful raindbow icon that looks like a beach ball. Apply with WinterBoard or Anemone. \nNOTE: There are a few issues with the status bar not showing up correctly, or it skips a few frames.
-Author: Chris Harper (Simalary) <harper.chris033@live.com>
-Name: El Capitan Beach Ball Loading Indicator
 
 Package: com.simalary.SimalaryRepoIcons
 Version: 0.0.103
@@ -33,9 +19,9 @@ Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.simalaryrepoicons_0.0.103_iphoneos-arm.deb
 Size: 149128
-MD5sum: 169ee27639836717c4ac05516215200d
-SHA1: 1d9230178b2af32458f68eb0c8e544d210824576
-SHA256: 3c6cf09e87ac9e55a7d35fbaab7f6799798aed20eaf39f1737eff23fef78d8ef
+MD5sum: 40aa6faa3511599520448e76aa63dede
+SHA1: 8727a2c3072b5ee3ee92a5b2f26166070ebad1c7
+SHA256: d5b29a3787b2776794838831eb429d30f6c69261b1d3c17e443c1a6eb94df596
 Section: System_-_Repo
 Description: Locally cached icons for the Simalary Repo.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -47,9 +33,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
 Size: 632030
-MD5sum: 88c3462008fb9986c0efaacccf26cc56
-SHA1: eb4f7894c24c5b3e7e126d8849b9ba2ec5c165ee
-SHA256: 9fca22149c9f6b9676b286ef7008acee7cee78a3df85b413111754002f3a219d
+MD5sum: f6b2d81d633767b6096afe23ae8e201a
+SHA1: 942cc6612903783f392530d8b844e9d18f8b0177
+SHA256: 20ea8aedee1bd67760b0b4e35760df405eb77f4d7e1322627fe15ac3ee47116c
 Section: Themes_-_SpringBoard
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
