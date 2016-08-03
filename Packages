@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
 Size: 77440
-MD5sum: 5b8a4627d3b429ebe0e8d5ce99cb96fd
-SHA1: b5e04e19632a74ad66d6f819c7cacc88f73b43bb
-SHA256: 326ca173101c9b4378bb69be56da014bb7fe90ce38809e9a6f72453764b30473
+MD5sum: b7e3d67f08ac36dc48229accc9b48cbb
+SHA1: 44be8ac3d588a9cbe90e94847f1751a691a36f38
+SHA256: fa6c0dde7b40d9c8939a373b9944d9786f906f23f9a3266ae599eb119217566b
 Section: Fixes_-_Cydia
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -19,9 +19,9 @@ Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.simalaryrepoicons_0.0.103_iphoneos-arm.deb
 Size: 149128
-MD5sum: 40aa6faa3511599520448e76aa63dede
-SHA1: 8727a2c3072b5ee3ee92a5b2f26166070ebad1c7
-SHA256: d5b29a3787b2776794838831eb429d30f6c69261b1d3c17e443c1a6eb94df596
+MD5sum: 6eb8f4166abf7136a2d6cf23532371e2
+SHA1: 1069731173914f22e8b20474436ba12d4d82d01f
+SHA256: d5ba807b20782a40b73a6692bcd205bbe2231a6960d37bfd08846c3860437696
 Section: System_-_Repo
 Description: Locally cached icons for the Simalary Repo.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -33,9 +33,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.foregroundtheme_0.1-alpha_iphoneos-arm.deb
 Size: 632030
-MD5sum: f6b2d81d633767b6096afe23ae8e201a
-SHA1: 942cc6612903783f392530d8b844e9d18f8b0177
-SHA256: 20ea8aedee1bd67760b0b4e35760df405eb77f4d7e1322627fe15ac3ee47116c
+MD5sum: cf0d26aa3fe0744cc6fe315dc1ca3caf
+SHA1: 8d5257950b65875e372d720b40a4f207c39c3b0f
+SHA256: 5e69209f5622697c1885a62ef9a8d695f6274b151276e9a2185efb2da242cbe1
 Section: Themes_-_SpringBoard
 Description: Add foreground to enhance the look of your device's homescreen!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
