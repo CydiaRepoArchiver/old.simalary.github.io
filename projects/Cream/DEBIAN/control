@@ -1,0 +1,16 @@
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
+Name: Cream
+Package: com.cpdigitaldarkroom.cream
+Depends: firmware (>= 8), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Section: Tweaks_-_SpringBoard
+Installed-Size: 579
+Version: 1.1
+Architecture: iphoneos-arm
+Description: Colored CC Toggles Like WatchOS
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Sponsor: Chris Harper (Simalary) <harper.chris033@live.com>
+dev: cpdigitaldarkroom
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Icon: file:///Library/PreferenceBundles/Cream.bundle/images/Cream@2x.png
