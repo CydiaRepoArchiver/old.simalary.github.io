@@ -1,7 +1,7 @@
 Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Name: Cream
-Package: com.cpdigitaldarkroom.cream
+Package: com.simalary.cream
 Depends: firmware (>= 8), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
 Section: Tweaks_-_SpringBoard
 Installed-Size: 579
