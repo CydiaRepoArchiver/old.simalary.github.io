@@ -1,12 +1,34 @@
+Package: com.cpdigitaldarkroom.cream
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
+Installed-Size: 579
+Depends: firmware (>= 8), mobilesubstrate (>= 0.9.5000), preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./debs/com.cpdigitaldarkroom.cream_1.1_iphoneos-arm.deb
+Size: 170602
+MD5sum: 528ad73f230f68d2163cc32373b7c51c
+SHA1: 24de759694e9ad6dfb75b08b38b9e14f68ba768e
+SHA256: 382414f9a64c8c26d0d1a459e4932ae10de7d44c6722ea792a807b44fe163493
+Section: Tweaks_-_SpringBoard
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Description: Colored CC Toggles Like WatchOS
+Tag: purpose::extension, compatible::ios8, compatible::ios9
+Author: CP Digital Darkroom <tweaks@cpdigitaldarkroom.support>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
+Dev: cpdigitaldarkroom
+Icon: file:///Library/PreferenceBundles/Cream.bundle/images/Cream@2x.png
+Name: Cream
+Sponsor: Chris Harper (Simalary) <harper.chris033@live.com>
+
 Package: com.simalary.CydiaMultitaskingIconFix
 Version: 0.0.103
 Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.cydiamultitaskingiconfix_0.0.103_iphoneos-arm.deb
 Size: 77440
-MD5sum: 8a86f9c118cf6247b135b564842de6c1
-SHA1: 99e8c7d9b2e90afc818453f1c3fdc709dd92b3ea
-SHA256: dc5617137fed3b1fd1c9d1f1efb91ce1a58e4968d2a2441ba121fc2eeb28bec0
+MD5sum: a3d6f584f5d25664daaec2fcabb980b3
+SHA1: e0c1612870ed23d834e20e378e5de8ba9bc6cc4a
+SHA256: 2f7fbf577d694ab2650151fce92f8f1a481ddcac6403611263848d0712ea010f
 Section: Fixes_-_Cydia
 Description: Fixes the icon for Cydia when in the app switcher on iOS 7+. Apply with WinterBoard or Anemone.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -18,9 +40,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.elcapitanbeachballloadingindicator_0.1-b_iphoneos-arm.deb
 Size: 132158
-MD5sum: 465507a79470b67ba88874feb9587453
-SHA1: b966211f563fc7eb6c220aa2a85419f577562621
-SHA256: 308b5e7dd6d8a7d5e6073bfbff93f1fd5ca0992cfcc3be18dfe7a4e0a7b28b51
+MD5sum: db0b0af1a74fc87e5977a4eb739d5ed8
+SHA1: 533f277546748ddbadd9bd0be14d684dbbbf40ac
+SHA256: 59b6a8282a78b91d613c5ce13d822854482bb5d809496f2dc43997eebdc0f192
 Section: Themes_-_Other
 Description: Change the old spinning dial into a colorful raindbow icon that looks like a beach ball. Apply with WinterBoard or Anemone.
  There are a few issues with the status bar not showing up correctly, or it skips a few frames.
@@ -34,9 +56,9 @@ Essential: yes
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.simalaryrepoicons_0.0.103_iphoneos-arm.deb
 Size: 188220
-MD5sum: e3e59ba21433d9beb0ba51aae962e91b
-SHA1: f144913345e877d6d36fe89b3bdb0c4525eb5316
-SHA256: 149c46cd334406d714bbc0ce9d7b07fd4eab1e414378b8fba920be4f13804486
+MD5sum: 21d02d19e5d41d69f3313af46fd8770d
+SHA1: 7ab86927132550321426a3a6f2eeb6480567fe60
+SHA256: 98ccc3ce80db6de59c7268498f8ee909c9f0ade44ee29254bd58d1a6b45ce5fb
 Section: System_-_Repo
 Description: Locally cached icons for the Simalary Repo.
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
@@ -48,9 +70,9 @@ Architecture: iphoneos-arm
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Filename: ./debs/com.simalary.spectrumalpha_0.1_iphoneos-arm.deb
 Size: 5844888
-MD5sum: 5fb7d7050e762504f749e8b510cf7e17
-SHA1: 90a707a66e1a3b870dbb3c493646c890e5bbbf10
-SHA256: 4f265f7ead93df3fcdd589a859d6d1ae253bc0ff3afe97ac2dbd0fde55406a82
+MD5sum: cda41015233eba2530524dfbcceb2194
+SHA1: 367665bf35765e8556c74c9bf54153f2dac33835
+SHA256: 3bc87f21735f19fefb4cb270a4dfd1fe280578561359718de57e665af7197a52
 Section: Themes_-_SpringBoard
 Description: Introduce the essence of blurred icons. They are a fresh new look!
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
