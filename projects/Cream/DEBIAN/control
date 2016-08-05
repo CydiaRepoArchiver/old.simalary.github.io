@@ -13,4 +13,4 @@ Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=creamDp
 Sponsor: Chris Harper (Simalary) <harper.chris033@live.com>
 dev: cpdigitaldarkroom
 Tag: purpose::extension, compatible::ios8, compatible::ios9
-Icon: file:///Library/PreferenceBundles/Cream.bundle/images/Cream@2x.png
+Icon: https://simalary.github.io/CydiaIcon.png
