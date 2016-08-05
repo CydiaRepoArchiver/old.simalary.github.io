@@ -1,9 +1,10 @@
 Package: com.simalary.spectrumAlpha
 Name: Spectrum (Alpha)
-Version: 0.1
+Version: 0.1.001
 Architecture: iphoneos-arm
-Description: Introduce the essence of blurred icons. They are a fresh new look!
+Description: Color up your homescreen with Spectrum.
 Depiction: https://simalary.github.io/depictions/SpectrumBeta/main.html
 Maintainer: Chris Harper (Simalary) <harper.chris033@live.com>
 Author: Chris Harper (Simalary) <harper.chris033@live.com>
 Section: Themes_-_SpringBoard
+Icon: file:///Library/SpectrumAlphaIcon.png
